@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lutherstischred00krokgoog_0639.png"; bbox 0 0 4667 6109; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 494 2363 1771 2776">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 494 2363 1771 2776">
+     <span class='ocr_line' id='line_1_1' title="bbox 1100 2363 1167 2474; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1100 2363 1167 2474; x_wconf 88' lang='lat' dir='ltr'>V.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 494 2642 1771 2776; baseline 0.002 -27"><span class='ocrx_word' id='word_1_2' title='bbox 494 2642 850 2776; x_wconf 60' lang='lat' dir='ltr'>webtiften</span> <span class='ocrx_word' id='word_1_3' title='bbox 882 2666 1003 2750; x_wconf 69' lang='lat' dir='ltr'>auz</span> <span class='ocrx_word' id='word_1_4' title='bbox 1034 2643 1436 2776; x_wconf 43' lang='lat' dir='ltr'>&amp;111oessan</span> <span class='ocrx_word' id='word_1_5' title='bbox 1467 2643 1771 2776; x_wconf 54' lang='lat' dir='ltr'>Qgessud}</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 925 2894 1344 3002">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 925 2894 1344 3002">
+     <span class='ocr_line' id='line_1_3' title="bbox 925 2894 1344 3002; baseline -0.01 -24"><span class='ocrx_word' id='word_1_6' title='bbox 925 2897 1044 3002; x_wconf 62' lang='lat' dir='ltr'>aufz</span> <span class='ocrx_word' id='word_1_7' title='bbox 1071 2894 1200 3001; x_wconf 62' lang='lat' dir='ltr'>Mt</span> <span class='ocrx_word' id='word_1_8' title='bbox 1226 2899 1344 2974; x_wconf 81' lang='lat'><strong>1539</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2338 6100">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2338 6100">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2338 6100; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 2338 6100; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
